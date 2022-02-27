@@ -1,0 +1,8 @@
+body{
+	background-color: aliceblue;
+}
+.btn_counter {
+	margin-top: 10px;
+	border: 1px solid black;
+	padding: 15px;
+}
